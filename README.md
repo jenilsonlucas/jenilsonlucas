@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hello, I'm Jenilson!</h1>
 
 - 👨 I'm 20 years old.
-- 👨‍💻 I'm a FullStack developer.
+- 👨‍💻 I'm a FullStack developer..
 - 📫 How to reach me: <a href="mailto:me@jenilsonllucas@gmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/jenilson-lucas/" target="_blank">LinkedIn</a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="46em" height="46em">&nbsp; Languages and Tools
